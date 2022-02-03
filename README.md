@@ -6,6 +6,10 @@
 
 # Blooket gold rush mode hack
 ##### Code to hack gold rush in blooket
+### Instructions:
+On blooket, press ``ctrl-shift-i`` on windows and go to the console
+Then paste the code into the console
+An alert will pop up, enter the amount of coins you would like and Boom! 
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/samsilvers/gold-rush.svg?style=for-the-badge
